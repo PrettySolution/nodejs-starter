@@ -1,0 +1,17 @@
+{
+  "window.zoomLevel": 1,
+  "workbench.preferredDarkColorTheme": "Default Light+",
+  "workbench.colorTheme": "Default Light+",
+  "workbench.iconTheme": "vscode-icons",
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "editor.tabCompletion": "on",
+  "json.schemas": [
+    {
+      "fileMatch": ["/myfile"],
+      "url": "schemaURL"
+    }
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay"
+}

@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "dsznajder.es7-react-js-snippets",
+        "ecmel.vscode-html-css",
+        "vscode-icons-team.vscode-icons",
+        "irongeek.vscode-env"
+    ]
+}
